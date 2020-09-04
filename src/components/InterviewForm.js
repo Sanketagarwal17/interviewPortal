@@ -27,9 +27,9 @@ function SelectUser({
 
 class InterviewForm extends Component {
   state = {
-    date: this.props.date ? this.props.date : "2020-09-03",
-    startTime: this.props.startTime ? this.props.startTime : "03:00",
-    endTime: this.props.endTime ? this.props.endTime : "05:00",
+    date: this.props.date ? this.props.date : "",
+    startTime: this.props.startTime ? this.props.startTime : "",
+    endTime: this.props.endTime ? this.props.endTime : "",
     numberOfParticipants: this.props.numberOfParticipants
       ? this.props.numberOfParticipants
       : 2,
@@ -44,7 +44,6 @@ class InterviewForm extends Component {
   };
 
   onSubmit = (eve) => {
-    console.log("Yaha ayaa hu");
     eve.preventDefault();
     let interview = {
       date: this.state.date,
