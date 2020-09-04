@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/interviewPortal/static/css/main.4d456498.chunk.css",
+    "main.js": "/interviewPortal/static/js/main.800910bb.chunk.js",
+    "main.js.map": "/interviewPortal/static/js/main.800910bb.chunk.js.map",
+    "runtime-main.js": "/interviewPortal/static/js/runtime-main.3a0f968e.js",
+    "runtime-main.js.map": "/interviewPortal/static/js/runtime-main.3a0f968e.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/interviewPortal/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.957feecb.chunk.js": "/interviewPortal/static/js/2.957feecb.chunk.js",
+    "static/js/2.957feecb.chunk.js.map": "/interviewPortal/static/js/2.957feecb.chunk.js.map",
+    "index.html": "/interviewPortal/index.html",
+    "precache-manifest.e323e75e7da5fd0aea2907c7857425cb.js": "/interviewPortal/precache-manifest.e323e75e7da5fd0aea2907c7857425cb.js",
+    "service-worker.js": "/interviewPortal/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/interviewPortal/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4d456498.chunk.css.map": "/interviewPortal/static/css/main.4d456498.chunk.css.map",
+    "static/js/2.957feecb.chunk.js.LICENSE.txt": "/interviewPortal/static/js/2.957feecb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a0f968e.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.957feecb.chunk.js",
+    "static/css/main.4d456498.chunk.css",
+    "static/js/main.800910bb.chunk.js"
+  ]
+}
